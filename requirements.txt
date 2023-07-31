@@ -1,7 +1,5 @@
-scikit-learn
-matplotlib
-nltk
-gensim
 pandas
-sklearn
+sklearn.preprocessing
+LabelEncoder
+matplotlib
 numpy
