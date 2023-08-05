@@ -10,5 +10,6 @@ requirements.txt - Binder specific file
 state_crime.csv - the dataset  
 
 Link to Blog: https://anushtadevosyan.github.io/DH140-Final-Project-Blog/posts/Topics.html  
-Link to Binder: https://notebooks.gesis.org/binder/jupyter/user/anushtadevosyan-0-final-project-drqap5xh/
+Link to Binder: https://notebooks.gesis.org/binder/jupyter/user/anushtadevosyan-0-final-project-xd2b68zg/lab/workspaces/auto-L
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AnushTadevosyan/DH140-Final-Project/main)
