@@ -1,14 +1,6 @@
 pandas
-sklearn.preprocessing
-LabelEncoder
+sklearn
 matplotlib
 numpy
 pmdarima
-auto_arima
-MinMaxScaler
-math
 nltk
-word_tokenize
-vader
-stopwords
-opinion_lexicon
